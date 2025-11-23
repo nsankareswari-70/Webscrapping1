@@ -1,4 +1,6 @@
 ### Webscraping
+
+
 Project Description:
 1. HVAC Dealer Information Collection:   
    The project involves scraping state-wise dealer information for leading HVAC manufacturers—Trane, Lennox, and Johnson Controls—from their respective dealer-locator portals.    
